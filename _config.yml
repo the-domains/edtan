@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B0B8'
+    - '#884000'
+    - '#807890'
+    - '#E0A020'
+    - '#F0E098'
+  brandStrength: 0.419665
+  lightness: 0.633001
+  rhythmicContrast: 0.489436
+  saturation: 0.440425
+cta: {}
+layout_spectrum: 0.695101
+name: edtan
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.206926
